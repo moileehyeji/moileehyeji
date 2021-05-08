@@ -8,7 +8,7 @@ My major is IT Management📚. I have been studying Python since 2020. I am very
 # 📬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:moi.leehyeji@gmail.com)](mailto:moi.leehyeji@gmail.com)
 [![kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white&link=https://www.kaggle.com/moileehyeji)](https://www.kaggle.com/moileehyeji)
-[![Mendeley](https://img.shields.io/badge/Dacon-006699?style=plastic&logo=Mendeley&logoColor=white&link=https://dacon.io/myprofile/416694/home)](https://dacon.io/myprofile/416694/home)
+[![Mendeley](https://img.shields.io/badge/Dacon-071D49?style=plastic&logo=Mendeley&logoColor=white&link=https://dacon.io/myprofile/416694/home)](https://dacon.io/myprofile/416694/home)
 
 
 
