@@ -1,6 +1,5 @@
-👨‍💻
 
-## :white_small_square: Hello My name is Hyeji.
+## 👨‍💻 Hello My name is Hyeji.
 
 My major is IT Management📚. I have been studying Python since 2020. I am very interested in ML & DL.
 
